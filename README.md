@@ -1,3 +1,3 @@
-# maven-project
+# Case Study 3 Project Deployment
 
-Simple Maven Project
+Deploying the Project using Jenkins to Docker Container.
